@@ -1,0 +1,41 @@
+nav{
+    border: 3px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    background-color: aqua;
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px ;
+    font-size: 3rem;
+}
+
+a{
+    font-size: 1.6rem;
+}
+.vänster{
+    background-color: yellow;
+}
+.höger{
+    background-color: pink;
+}
+h2{
+    border: 4px solid black;
+    width: 48%;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    border: 4px solid orangered;
+    gap: 5px;
+
+}
+p{
+    border: 2px solid yellow;
+}
